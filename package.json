@@ -1,0 +1,11 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "just a terminal crud bro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miguel",
+  "license": "ISC"
+}
